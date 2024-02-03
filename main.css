@@ -8,7 +8,7 @@ line-height: 1.5;
 font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
 }
 h1, h2, h3, h4, h5, h6, h7, h8 {
-color: #B5E853;
+color: #47E10C;
 line-height: 1.5;
 font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
 text-align: left;
@@ -22,7 +22,7 @@ font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, mon
 }
 .hr {
 border: 0;
-border-top: 2px dashed #B5E853;
+border-top: 2px dashed #47E10C;
 }
 li {
 color: #FFFFFF;
