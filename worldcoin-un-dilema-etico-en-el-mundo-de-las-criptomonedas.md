@@ -40,9 +40,10 @@ Esto implica que si un actor malicioso tomara el contrato bajo su control( no vo
 Bueno, pasemos al contrato antiguo, ya se que no es relevante actualmente, pero los antecedentes son importantes, no creen?, mas aun en un proyecto de este calibre.
 
 El contrato/wallet que creaba los tokens, 
-1. es privado
-2. no tiene limite de emision(mint) 
-3. No hay limite de transferencia de tokens( importante cuando el owner posee el 47% de los activos)
-4. Todos los efectivos del contrato fueron emitidos usando un mixer(suele ocurrir cuando se quiere cometer un rugpull(tirar de la alfombra, tomar el dinero y huir), asi no podran rastrear la wallet original, para pedir responsabilidades)
-5. no hay ninguna clase de liquidez( en este caso es normal, el token estaba en closed mainnet, osea se puede transferir y emitir, pero no vender)
-6. el dueño posee gran parte de los tokens, lo que le permite hacer cosas como hacer caer el precio catastroficamente, vendiendo sus tokens y huyendo, osea un rugpull.
+
+1. es privado  
+2. no tiene limite de emision(mint)   
+3. No hay limite de transferencia de tokens( importante cuando el owner posee el 47% de los activos)  
+4. Todos los efectivos del contrato fueron emitidos usando un mixer(suele ocurrir cuando se quiere cometer un rugpull(tirar de la alfombra, tomar el dinero y huir), asi no podran rastrear la wallet original, para pedir responsabilidades)  
+5. no hay ninguna clase de liquidez( en este caso es normal, el token estaba en closed mainnet, osea se puede transferir y emitir, pero no vender.  
+6. el dueño posee gran parte de los tokens, lo que le permite hacer cosas como hacer caer el precio catastroficamente, vendiendo sus tokens y huyendo, osea un rugpull.  
